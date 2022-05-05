@@ -1,6 +1,6 @@
 # <font face="courier New" size=6 color=#0000FF >Hua-Ming Du 杜华明</font>
 
-![alt 属性文本](D:\wenxian\pig.jpg)
+![alt 属性文本](https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg)
 
 # <font face="courier New" size=6 color=#0000FF >About Me</font>
 
