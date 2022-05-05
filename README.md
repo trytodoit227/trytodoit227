@@ -1,3 +1,7 @@
+# <font face="courier New" size=6 color=#0000FF >Hua-Ming Du 杜华明</font>
+
+![alt 属性文本](D:\wenxian\pig.jpg)
+
 # <font face="courier New" size=6 color=#0000FF >About Me</font>
 
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
