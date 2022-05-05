@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# <font face="courier New" size=6 color=#000066 >Hua-Ming Du 杜华明</font>
 
-You can use the [editor on GitHub](https://github.com/trytodoit227/trytodoit227/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- ![alt 属性文本](https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg =100x) -->
+<img width="190" height="260" src="https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# <font face="courier New" size=6 color=#000066 >About Me</font>
 
-### Markdown
+I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
+ 
+# <font face="courier New" size=6 color=#000066 >Experience</font>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2020-now Southwestern University of Finance and Economics (SWUFE), Chengdu, China
+    - PhD student, Majoring in Management of Big Data, supervised by [Gang Kou][3] and [Yu Zhao][4] (co-supervise)
+- 2015-2018 CHINA UNIVERSITY OF PETROLEUM (CUP), Beijing, China
+    - Master student, Majoring in Oil-Gas Field Development Engineering
+ 
+# <font face="courier New" size=6 color=#000066 >Research</font>
 
-```markdown
-Syntax highlighted code block
+My research interest is graph learning, reinforcement learning and Fintech.
 
-# Header 1
-## Header 2
-### Header 3
+# <font face="courier New" size=6 color=#000066 >Working Paper</font>
+ - [Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks][1]
+ - [Sorption of methane, carbon dioxide, and their mixtures on shales from Sichuan Basin, China][2]
+# <font face="courier New" size=6 color=#0000FF >Contact</font>  
+dhmfcc@smail.swufe.edu.cn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trytodoit227/trytodoit227/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1]: https://arxiv.org/pdf/2201.04965.pdf
+[2]: https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.7b03429
+[3]: https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ
+[4]: https://scholar.google.com/citations?hl=zh-CN&user=J3yW0aYAAAAJ
