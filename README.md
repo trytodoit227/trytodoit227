@@ -1,7 +1,7 @@
 # Hua-Ming Du 杜华明
 
 <!-- ![alt 属性文本](https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg =100x) -->
-<img width="190" height="260" src="https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg"/>
+<img width="190" height="260" src="https://github.com/trytodoit227/dhm/blob/master/pig.jpg"/>
 
 # About Me
 
