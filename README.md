@@ -16,7 +16,7 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
  
 # Research
 
-My research interest is graph learning, causal inference and Fintech.
+My research interest is graph learning, causal inference and LLM.
 
 # Publications
 - Yu Zhao, **Huaming Du**, Ying Liu, Shaopeng Wei, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou. 
