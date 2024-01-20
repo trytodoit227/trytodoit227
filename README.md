@@ -19,13 +19,13 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
 My research interest is graph learning, causal inference and Fintech.
 
 # Publications
-- Yu Zhao, **Huaming Du**, Ying Liu, Shaopeng Wei, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou
+- Yu Zhao, **Huaming Du**, Ying Liu, Shaopeng Wei, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou. 
   Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks, **TKDE**, 2022, [paper][1]
-- **Huaming Du**, Zhilong Xie, Jia Song, Yaoxing Yuan, Jiacan Li, Xingyan Chen, Huangen Chen, Yu Zhao, Fuzhen Zhuang, Qing Li
+- **Huaming Du**, Zhilong Xie, Jia Song, Yaoxing Yuan, Jiacan Li, Xingyan Chen, Huangen Chen, Yu Zhao, Fuzhen Zhuang, Qing Li. 
   DKPE: Deep keyphrase expansion, **Neurocomputing**, 2023, [paper][2]
-- Yu Zhao, Shaopeng Wei, **Huaming Du**, Xingyan Chen, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou
+- Yu Zhao, Shaopeng Wei, **Huaming Du**, Xingyan Chen, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. 
   Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks, **TKDE**, 2022, [paper][3]
-- Yu Zhao, Leilei Wang, Cui Wang, **Huaming Du**, Shaopeng Wei, Huali Feng, Zongjian Yu, Qing Li
+- Yu Zhao, Leilei Wang, Cui Wang, **Huaming Du**, Shaopeng Wei, Huali Feng, Zongjian Yu, Qing Li. 
   Multi-granularity heterogeneous graph attention networks for extractive document summarization, **Neural Networks**, 2022, [paper][4]
 
 # Program
