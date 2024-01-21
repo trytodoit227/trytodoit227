@@ -1,6 +1,6 @@
 # Huaming Du 杜华明
 
-<!-- ![alt 属性文本](https://github.com/trytodoit227/trytodoit227/blob/master/pig.jpg =100x) -->
+
 <img width="190" height="260" src="https://github.com/trytodoit227/dhm/blob/master/pig.jpg"/>
 
 # About Me
@@ -11,7 +11,7 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
 
 - 2020-now Southwestern University of Finance and Economics (SWUFE), Chengdu, China
     - PhD student, Majoring in Management of Big Data, supervised by [Gang Kou][5] and [Yu Zhao][6] (co-supervise)
-- 2015-2018 CHINA UNIVERSITY OF PETROLEUM (CUP), Beijing, China
+- 2015-2018 China University of Petroleum (CUP), Beijing, China
     - Master student, Majoring in Oil-Gas Field Development Engineering
  
 # Research
