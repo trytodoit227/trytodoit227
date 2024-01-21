@@ -2,7 +2,6 @@
 
 <img width="190" height="260" src="https://github.com/trytodoit227/dhm/blob/master/pig.jpg"/>
 
-
 # About Me
 
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
