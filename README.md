@@ -1,6 +1,6 @@
 # Huaming Du 杜华明
-
 <img width="190" height="260" src="https://github.com/trytodoit227/dhm/blob/master/pig.jpg"/>
+
 
 # About Me
 
