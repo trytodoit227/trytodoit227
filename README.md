@@ -15,9 +15,11 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
  
 # Research
 
-My research interest is graph learning, causal inference and LLM.
+My research interest is causal inference, LLM, and graph learning.
 
 # Publications
+- **Huaming Du**, Shi Long, Xingyan Chen, Yu Zhao, Hegui Zhang, Carl Yang, Fuzhen Zhuang, Gang Kou. 
+  Representation Learning of Temporal Graphs with Structural Roles, **KDD**, 2024.
 - Yu Zhao, **Huaming Du**, Ying Liu, Shaopeng Wei, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou. 
   Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks, **TKDE**, 2022, [[paper]][1]
 - **Huaming Du**, Zhilong Xie, Jia Song, Yaoxing Yuan, Jiacan Li, Xingyan Chen, Huangen Chen, Yu Zhao, Fuzhen Zhuang, Qing Li. 
