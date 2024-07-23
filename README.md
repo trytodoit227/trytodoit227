@@ -20,6 +20,8 @@ My research interest is causal inference, LLM, and graph learning.
 # Publications
 - **Huaming Du**, Shi Long, Xingyan Chen, Yu Zhao, Hegui Zhang, Carl Yang, Fuzhen Zhuang, Gang Kou. 
   Representation Learning of Temporal Graphs with Structural Roles, **KDD**, 2024, [[paper]][1].
+- Xingyan Chen, **Huaming Du**, Mu Wang, Yu Zhao, Xiaoyang Shu, Changqiao Xu, Gabriel-Miro Muntean.
+  A Novel Adaptive 360° Livestreaming with Graph Representation Learning based FoV Prediction, **TETC**, 2024.
 - Yu Zhao, **Huaming Du**, Ying Liu, Shaopeng Wei, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou. 
   Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks, **TKDE**, 2022, [[paper]][2]
 - **Huaming Du**, Zhilong Xie, Jia Song, Yaoxing Yuan, Jiacan Li, Xingyan Chen, Huangen Chen, Yu Zhao, Fuzhen Zhuang, Qing Li. 
