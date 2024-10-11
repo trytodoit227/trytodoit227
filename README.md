@@ -31,7 +31,7 @@ My research interest is causal inference, LLM, and graph learning.
   Multi-granularity heterogeneous graph attention networks for extractive document summarization, **Neural Networks**, 2022, [[paper]][6]
 
 # Program
-- Leader. Research on Corporate Financial Risk and Its Interpretability Based on Graph Neural Networks.
+- Leader. Research on corporate financial risk and its interpretability based on graph neural networks.
   Supported by the Fundamental Research Funds for the Central Universities (JBK2307016), RMB 10,000.
 - Ranked second. Exploration of the reasoning capabilities of large models in the financial domain and the white-box presentation of the reasoning process. Supported by the 2024 CAAI-Ant Group Research Fund.
 
