@@ -17,6 +17,8 @@ Current research interests include: causal inference with LLMs, AI for healthcar
 My research interest is causal inference, LLM, and graph learning.
 
 # Publications
+- **Huaming Du**, Yujia Zheng, Baoyu Jing, Yu Zhao, Gang Kou, Guisong Liu, Tao Gu, Weimin Li, Carl Yang. 
+  Causal Discovery through Synergizing Large Language Model and Data-Driven Reasoning, **KDD**, 2025.
 - **Huaming Du**, Shi Long, Xingyan Chen, Yu Zhao, Hegui Zhang, Carl Yang, Fuzhen Zhuang, Gang Kou. 
   Representation Learning of Temporal Graphs with Structural Roles, **KDD**, 2024, [[paper]][1].
 - Xingyan Chen, **Huaming Du**, Mu Wang, Yu Zhao, Xiaoyang Shu, Changqiao Xu, Gabriel-Miro Muntean.
