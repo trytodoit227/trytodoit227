@@ -17,6 +17,8 @@ Current research interests include: Causal inference with LLMs, AI for healthcar
 My research interest is causal inference, LLM, and graph learning.
 
 # Publications
+- **Huaming Du**, Tao Hu, Yijie Huang, Yu Zhao, Guisong Liu, Tao Gu, Gang Kou and Carl Yang. 
+  Traceable Latent Variable Discovery Based on Multi-Agent Collaboration, **WWW**, 2026.
 - **Huaming Du**, Yijie Huang, Su Yao, Yiying Wang, Yueyang Zhou, Jingwen Yang, Jinshi Zhang, Han Ji, Yu Zhao, Guisong Liu, Hegui Zhang, Carl Yang, Gang Kou. 
   Transferable Graph Condensation from the Causal Perspective, **AAAI (Oral)**, 2025.
 - **Huaming Du**, Lei Yuan, Guisong Liu, Carl Yang, Gang Kou. 
