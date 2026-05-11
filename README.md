@@ -17,6 +17,8 @@ Current research interests include: Causal inference with LLMs, AI for healthcar
 My research interest is causal inference, LLM, and graph learning.
 
 # Publications
+- **Huaming Du**, Yaling Liu; Cancan Feng; Guisong Liu; Carl Yang; Gang Kou. 
+  Why Empirical Risk Minimization Performs Well for Open Set Domain Adaptation: A Theoretical Analysis from Causal View, **TNNLS**, 2026.
 - **Huaming Du**, Cancan Feng, Yuqian Lei, Chengyang Zhang, Guisong Liu, Gang Kou, Carl Yang, and Yu Zhao. 
   A Comprehensive Survey on Enterprise Financial Risk Analysis from Big Data and LLMs Perspective, **PAKDD**, 2026.
 - **Huaming Du**, Tao Hu, Yijie Huang, Yu Zhao, Guisong Liu, Tao Gu, Gang Kou and Carl Yang. 
