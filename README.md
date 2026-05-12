@@ -8,9 +8,9 @@ Current research interests include: Causal inference with LLMs, AI for healthcar
  
 # Experience
 - 2020-2024 Southwestern University of Finance and Economics (SWUFE), Chengdu, China
-    - PhD student, Majoring in Management of Big Data, supervised by [Gang Kou][9].
+    - PhD student, Majoring in Management of Big Data, supervised by [Gang Kou][11].
 - 2015-2018 China University of Petroleum (CUP), Beijing, China
-    - Master student, Majoring in Oil-Gas Field Development Engineering, surpervised by [Zhengfu Ning][10].
+    - Master student, Majoring in Oil-Gas Field Development Engineering, surpervised by [Zhengfu Ning][12].
  
 # Research
 
@@ -60,6 +60,6 @@ dhmfcc@smail.swufe.edu.cn
 [8]: https://www.sciencedirect.com/science/article/abs/pii/S0925231223013000
 [9]: https://ieeexplore.ieee.org/abstract/document/9954185
 [10]: https://www.sciencedirect.com/science/article/abs/pii/S0893608022003215
-[9]: https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ
-[10]: https://www.cup.edu.cn/oil/jsdw/yqtkfgcx/135296.htm
-[11]: https://scholar.google.com.hk/citations?user=mOINlwcAAAAJ&hl=zh-CN&oi=ao
+[11]: https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ
+[12]: https://www.cup.edu.cn/oil/jsdw/yqtkfgcx/135296.htm
+[13]: https://scholar.google.com.hk/citations?user=mOINlwcAAAAJ&hl=zh-CN&oi=ao
